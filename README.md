@@ -1,6 +1,6 @@
 # Web-Chat-Room
 A chatroom app with Firebase.  
-![image](https://user-images.githubusercontent.com/86723888/179365252-774afffa-1d04-4d49-be9f-4e7264b047df.png)
+![image](https://user-images.githubusercontent.com/86723888/179365449-e2bba732-53d2-4204-9a39-8f2d5fa23825.png)
 Demo link:  https://chat-app2-cb729.web.app/  
 
 ## OUTLINE
