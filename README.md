@@ -26,7 +26,7 @@ You can enter the 3 rooms which are already provided.
 Otherwise, you can create a room yourself.  
 1. Type in your room name.
 2. Press the "Enter Room" button.
-3. Then you are in the new room you created.
+3. Then you are in the new room you created.  
 ![image](https://user-images.githubusercontent.com/86723888/179400918-9e9a3475-b943-47b7-a1f5-7c4923e9a56b.png) ![image](https://user-images.githubusercontent.com/86723888/179400935-a2564eb9-7ae8-4964-b745-5effe9a27de3.png)
 
 
