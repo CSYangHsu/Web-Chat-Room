@@ -42,7 +42,7 @@ Otherwise, you can create a room yourself.
     
     
 * Firebase :
-The username, user photo, time, room, and text are all recorded in the database.   
+The username, user photo, time, room, and text of each message are all recorded in the database.   
 ![image](https://user-images.githubusercontent.com/86723888/179401894-6367bc86-0d26-471e-a937-b487306d9131.png)  
   
   
