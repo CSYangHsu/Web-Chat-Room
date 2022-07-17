@@ -13,7 +13,7 @@ Demo link:  https://chat-app2-cb729.web.app/
 ### Home-Page
 ![image](https://user-images.githubusercontent.com/86723888/179365537-e2d3234d-39d2-4add-8186-f122d4030165.png)  
 * Login with Google
-* Login/Sign up with e-mail: Fill in the three text box and then click the button.
+* Login/Sign up with e-mail: Fill in the three blanks and then click the button.
 
 
 
