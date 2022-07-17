@@ -21,8 +21,8 @@ Demo link:  https://chat-app2-cb729.web.app/
 
 
 ### Rooms
-You can enter the 3 rooms which are already provided.
-![image](https://user-images.githubusercontent.com/86723888/179400820-746f2203-f2de-4417-a0e2-64648de1cfb0.png)  
+You can enter the 3 rooms which are already provided.  
+![image](https://user-images.githubusercontent.com/86723888/179400820-746f2203-f2de-4417-a0e2-64648de1cfb0.png)    
 Otherwise, you can create a room yourself.  
 1. Type in your room name.
 2. Press the "Enter Room" button.
