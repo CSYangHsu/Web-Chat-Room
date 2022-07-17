@@ -13,7 +13,7 @@ Demo link:  https://chat-app2-cb729.web.app/
 ### Home-Page
 ![image](https://user-images.githubusercontent.com/86723888/179365537-e2d3234d-39d2-4add-8186-f122d4030165.png)  
 * Login with Google
-* Login/Sign up with e-mail
+* Login/Sign up with e-mail: Fill in the three text box and then click the button.
 
 
 
@@ -27,7 +27,7 @@ You can enter the 3 rooms which are already provided.
   
 Otherwise, you can create a room yourself.  
 1. Type in your room name.
-2. Press the "Enter Room" button.
+2. Click the "Enter Room" button.
 3. Then you are in the new room you created.  
 ![image](https://user-images.githubusercontent.com/86723888/179400918-9e9a3475-b943-47b7-a1f5-7c4923e9a56b.png)  
 ![image](https://user-images.githubusercontent.com/86723888/179400935-a2564eb9-7ae8-4964-b745-5effe9a27de3.png)    
@@ -35,7 +35,7 @@ Otherwise, you can create a room yourself.
 
 ### Messages
 1. Click the message.
-2. A red delete button would appear, just click it.  
+2. A red delete button would then appear, just click it.  
 ![image](https://user-images.githubusercontent.com/86723888/179401209-bde56e27-84a9-46f0-84d2-4d5e11bb7bff.png)
 ![image](https://user-images.githubusercontent.com/86723888/179401220-851656c3-c512-4da1-86cf-4c053b4ac195.png)
 
