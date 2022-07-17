@@ -22,7 +22,9 @@ Demo link:  https://chat-app2-cb729.web.app/
   
 ### Rooms
 You can enter the 3 rooms which are already provided.  
-![image](https://user-images.githubusercontent.com/86723888/179400820-746f2203-f2de-4417-a0e2-64648de1cfb0.png)    
+![image](https://user-images.githubusercontent.com/86723888/179400820-746f2203-f2de-4417-a0e2-64648de1cfb0.png)  
+  
+  
 Otherwise, you can create a room yourself.  
 1. Type in your room name.
 2. Press the "Enter Room" button.
@@ -35,7 +37,7 @@ Otherwise, you can create a room yourself.
 1. Click the message.
 2. A red delete button would appear, just click it.  
 ![image](https://user-images.githubusercontent.com/86723888/179401209-bde56e27-84a9-46f0-84d2-4d5e11bb7bff.png)
-![image](https://user-images.githubusercontent.com/86723888/179401151-c274db6f-15ce-4d41-9543-6a7014dc91bc.png)
+![image](https://user-images.githubusercontent.com/86723888/179401220-851656c3-c512-4da1-86cf-4c053b4ac195.png)
 
 
 
