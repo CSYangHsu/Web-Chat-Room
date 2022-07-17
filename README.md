@@ -32,8 +32,8 @@ Otherwise, you can create a room yourself.
   
 
 ### Messages
-1. Click the message you want to delete.
-2. A red delete button would appear, just click it.
+1. Click the message.
+2. A red delete button would appear, just click it.  
 ![image](https://user-images.githubusercontent.com/86723888/179401139-ad387618-ab73-4097-b0bf-b225aa48567e.png)
 ![image](https://user-images.githubusercontent.com/86723888/179401151-c274db6f-15ce-4d41-9543-6a7014dc91bc.png)
 
