@@ -11,22 +11,26 @@ Demo link:  https://chat-app2-cb729.web.app/
 
   
 ### Home-Page
-![image](https://user-images.githubusercontent.com/86723888/179365394-ecc3cfb6-7d9d-423d-9b47-9a70e3dc2f86.png)
+![image](https://user-images.githubusercontent.com/86723888/179365537-e2d3234d-39d2-4add-8186-f122d4030165.png)  
+* Login with Google
+* Login/Sign up with e-mail
+
 
 
 
 
 
 ### Rooms
-Download current canvas as an image file.
-![image](https://user-images.githubusercontent.com/86723888/179056251-24f69220-bfdb-4095-bf6e-bba9caa37bff.png)
-  
-    
-      
+You can enter the 3 rooms which are already provided.
+![image](https://user-images.githubusercontent.com/86723888/179400820-746f2203-f2de-4417-a0e2-64648de1cfb0.png)  
+Otherwise, you can create a room yourself.  
+1. Type in your room name.
+2. Press the "Enter Room" button.
+3. Then you are in the new room you created.
+![image](https://user-images.githubusercontent.com/86723888/179400918-9e9a3475-b943-47b7-a1f5-7c4923e9a56b.png) ![image](https://user-images.githubusercontent.com/86723888/179400935-a2564eb9-7ae8-4964-b745-5effe9a27de3.png)
 
-  
-The downloaded file would be the image below:  
-![image](https://user-images.githubusercontent.com/86723888/179056344-25912be3-0f4a-49c3-b879-1998153d0725.png)
+
+
 
 
 
