@@ -34,7 +34,7 @@ Otherwise, you can create a room yourself.
 ### Messages
 1. Click the message.
 2. A red delete button would appear, just click it.  
-![image](https://user-images.githubusercontent.com/86723888/179401139-ad387618-ab73-4097-b0bf-b225aa48567e.png)
+![image](https://user-images.githubusercontent.com/86723888/179401209-bde56e27-84a9-46f0-84d2-4d5e11bb7bff.png)
 ![image](https://user-images.githubusercontent.com/86723888/179401151-c274db6f-15ce-4d41-9543-6a7014dc91bc.png)
 
 
